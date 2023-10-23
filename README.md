@@ -13,6 +13,7 @@ Capable of handling large-scale data.
 
 Challenges and Difficulties
 Time series forecasting by regression, although widely used, can encounter several challenges. Some of the prominent issues include:
+
 Autocorrelation: Time series information frequently displays examples of sequential connection, where the value of a variable at a specific time is reliant upon its past qualities. This violates the assumption of independence among the predictors in the regression model.
 
 Non-stationarity: Many time series show patterns, irregularity, or different types of non-stationarity, which can violate the assumption of steady mean and variance
