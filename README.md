@@ -1,7 +1,11 @@
 # SE22MAID002_DEMAND_FORECASTING
 
-A retail chain in India wants to use data source to build an efficient forecasting model to predict the sales SKU wise in its portfolio at its 76 different stores using historical sales data for the past 3 years on a week-on-week basis. Sales and promotional seasonality is also available for each week- SKU and store wise.
-However, no other information regarding stores and products are available. Can you still forecast accurately ?
+# SE22MAID002
+
+# PARAM SHIV ASHISH
+
+# MTECH AI AND DS
+
 
 Yes, this problem can be solved by using regression approach and many more possible solutions can be used, for this assignment i am going to stick with LightGBM
 LightGBM is a gradient boosting framework that uses tree based learning algorithms. It is designed to be distributed and efficient with the following advantages:
