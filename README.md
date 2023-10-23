@@ -1,10 +1,10 @@
 # SE22MAID002_DEMAND_FORECASTING
 
-# SE22MAID002
+SE22MAID002
 
-# PARAM SHIV ASHISH
+PARAM SHIV ASHISH
 
-# MTECH AI AND DS
+MTECH AI AND DS
 
 
 Yes, this problem can be solved by using regression approach and many more possible solutions can be used, for this assignment i am going to stick with LightGBM
